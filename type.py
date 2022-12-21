@@ -9,3 +9,7 @@ s = pyperclip.paste()
 #    p.write(s)
     
 #save and close a particular file
+os.startfile(r"xyz.txt")
+p.write("does this work?")
+p.hotkey('ctrl', 's')
+p.hotkey('alt', 'f4')
